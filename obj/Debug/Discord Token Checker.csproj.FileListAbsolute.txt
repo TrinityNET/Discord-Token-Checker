@@ -1,0 +1,7 @@
+D:\Discord Token Checker\obj\Debug\Discord Token Checker.csprojAssemblyReference.cache
+D:\Discord Token Checker\obj\Debug\Discord Token Checker.csproj.CoreCompileInputs.cache
+D:\Discord Token Checker\bin\Debug\TrinityCord.exe.config
+D:\Discord Token Checker\bin\Debug\TrinityCord.exe
+D:\Discord Token Checker\bin\Debug\TrinityCord.pdb
+D:\Discord Token Checker\obj\Debug\TrinityCord.exe
+D:\Discord Token Checker\obj\Debug\TrinityCord.pdb

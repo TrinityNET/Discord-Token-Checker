@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord Token Checker", "Discord Token Checker.csproj", "{5B0BF09E-CE58-462C-91AB-6B4224292026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0BF09E-CE58-462C-91AB-6B4224292026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0BF09E-CE58-462C-91AB-6B4224292026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0BF09E-CE58-462C-91AB-6B4224292026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0BF09E-CE58-462C-91AB-6B4224292026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FC9227-3C8C-4FFD-AF8F-685ED0D27CD6}
+	EndGlobalSection
+EndGlobal
